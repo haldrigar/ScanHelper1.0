@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dsDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dictionary>
+		<ID_RODZ_DOK>1</ID_RODZ_DOK>
+		<OPIS>inny</OPIS>
+		<PREFIX>_inn.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>2</ID_RODZ_DOK>
+		<OPIS>kataster - zarys kolor</OPIS>
+		<PREFIX>_kzk.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>3</ID_RODZ_DOK>
+		<OPIS>kataster - zarys mono</OPIS>
+		<PREFIX>_kzm.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>4</ID_RODZ_DOK>
+		<OPIS>mapa - numeryczna</OPIS>
+		<PREFIX>_mnu.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>5</ID_RODZ_DOK>
+		<OPIS>mapa - skan</OPIS>
+		<PREFIX>_msk.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>6</ID_RODZ_DOK>
+		<OPIS>mapa - skan su kolor</OPIS>
+		<PREFIX>_muk.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>7</ID_RODZ_DOK>
+		<OPIS>mapa - skan su mono</OPIS>
+		<PREFIX>_mum.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>8</ID_RODZ_DOK>
+		<OPIS>mapa - skan sw kolor</OPIS>
+		<PREFIX>_mwk.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>9</ID_RODZ_DOK>
+		<OPIS>mapa - skan sw mono</OPIS>
+		<PREFIX>_mwm.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>10</ID_RODZ_DOK>
+		<OPIS>mapa - zudp</OPIS>
+		<PREFIX>_mzu.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>11</ID_RODZ_DOK>
+		<OPIS>operat - decyzja</OPIS>
+		<PREFIX>_dec.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>12</ID_RODZ_DOK>
+		<OPIS>operat - notatnik zmian</OPIS>
+		<PREFIX>_not.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>13</ID_RODZ_DOK>
+		<OPIS>operat - projekt podziału</OPIS>
+		<PREFIX>_ppd.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>14</ID_RODZ_DOK>
+		<OPIS>operat - projekt scalenia</OPIS>
+		<PREFIX>_psd.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>15</ID_RODZ_DOK>
+		<OPIS>operat - projekt scalenia i podziału</OPIS>
+		<PREFIX>_psp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>16</ID_RODZ_DOK>
+		<OPIS>operat - protokół graniczny</OPIS>
+		<PREFIX>_pgr.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>17</ID_RODZ_DOK>
+		<OPIS>operat - protokół okazania nowych granic</OPIS>
+		<PREFIX>_png.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>18</ID_RODZ_DOK>
+		<OPIS>operat - protokół przyjęcia (wznowienia) granic</OPIS>
+		<PREFIX>_pwg.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>19</ID_RODZ_DOK>
+		<OPIS>operat - spis treści</OPIS>
+		<PREFIX>_ost.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>20</ID_RODZ_DOK>
+		<OPIS>operat - szkic podstawowy (bazowy)</OPIS>
+		<PREFIX>_szb.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>21</ID_RODZ_DOK>
+		<OPIS>operat - szkic polowy</OPIS>
+		<PREFIX>_szp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>22</ID_RODZ_DOK>
+		<OPIS>operat - szkic wyniesienia</OPIS>
+		<PREFIX>_szw.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>23</ID_RODZ_DOK>
+		<OPIS>operat - wykaz wsp.</OPIS>
+		<PREFIX>_wsp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>24</ID_RODZ_DOK>
+		<OPIS>operat - wykaz zmian gruntowych</OPIS>
+		<PREFIX>_wzg.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>25</ID_RODZ_DOK>
+		<OPIS>osnowa - opis topograficzny</OPIS>
+		<PREFIX>_opi.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>26</ID_RODZ_DOK>
+		<OPIS>osnowa - zawiadomienie o zniszczeniu/uszkodzeniu znaku</OPIS>
+		<PREFIX>_ozw.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+</dsDictionary>

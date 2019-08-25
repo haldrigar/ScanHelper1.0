@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<dsDictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>1</ID_RODZ_DOK>
+    <OPIS>szkic polowy</OPIS>
+    <PREFIX>_szk</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>2</ID_RODZ_DOK>
+    <OPIS>wykaz współrzędnych</OPIS>
+    <PREFIX>_wsp</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>3</ID_RODZ_DOK>
+    <OPIS>protokół</OPIS>
+    <PREFIX>_prt</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>4</ID_RODZ_DOK>
+    <OPIS>opis topograficzny</OPIS>
+    <PREFIX>_top</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>5</ID_RODZ_DOK>
+    <OPIS>sprawozdanie techniczne</OPIS>
+    <PREFIX>_spr</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>6</ID_RODZ_DOK>
+    <OPIS>mapa</OPIS>
+    <PREFIX>_map</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>7</ID_RODZ_DOK>
+    <OPIS>dziennik pomiarowy</OPIS>
+    <PREFIX>_pom</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>8</ID_RODZ_DOK>
+    <OPIS>inny</OPIS>
+    <PREFIX>_inn</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>11</ID_RODZ_DOK>
+    <OPIS>wykaz zmian danych ewidencyjnych</OPIS>
+    <PREFIX>_wzg</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>104</ID_RODZ_DOK>
+    <OPIS>akt notarialny</OPIS>
+    <PREFIX>_akt</PREFIX>
+  </Dictionary>
+  <Dictionary>
+    <ID_RODZ_DOK>112</ID_RODZ_DOK>
+    <OPIS>decyzja administracyjna</OPIS>
+    <PREFIX>_dec</PREFIX>
+  </Dictionary>
+</dsDictionary>

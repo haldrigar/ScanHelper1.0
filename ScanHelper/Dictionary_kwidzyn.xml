@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dsDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dictionary>
+		<ID_RODZ_DOK>1</ID_RODZ_DOK>
+		<OPIS>okładka</OPIS>
+		<PREFIX>_okl.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>2</ID_RODZ_DOK>
+		<OPIS>spis dokumentów operatu technicznego</OPIS>
+		<PREFIX>_spt.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>3</ID_RODZ_DOK>
+		<OPIS>wniosek o przyjęcie do zasobu</OPIS>
+		<PREFIX>_wnpg.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>4</ID_RODZ_DOK>
+		<OPIS>protokół kontroli</OPIS>
+		<PREFIX>_pkt.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>5</ID_RODZ_DOK>
+		<OPIS>decyzja administracyjna</OPIS>
+		<PREFIX>_dec.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>6</ID_RODZ_DOK>
+		<OPIS>postanowienie</OPIS>
+		<PREFIX>_pst.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>7</ID_RODZ_DOK>
+		<OPIS>zarys</OPIS>
+		<PREFIX>_zar.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>8</ID_RODZ_DOK>
+		<OPIS>pierworys</OPIS>
+		<PREFIX>_pier.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>9</ID_RODZ_DOK>
+		<OPIS>mapy zmian i notatnik zmian</OPIS>
+		<PREFIX>_nze.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>10</ID_RODZ_DOK>
+		<OPIS>szkic polowy</OPIS>
+		<PREFIX>_szp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>11</ID_RODZ_DOK>
+		<OPIS>szkice podstawowe</OPIS>
+		<PREFIX>_szb.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>12</ID_RODZ_DOK>
+		<OPIS>szkice polowe/mapa przeglądowa osnowy pomiarowej</OPIS>
+		<PREFIX>_szo.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>13</ID_RODZ_DOK>
+		<OPIS>dziennik pomiarowy</OPIS>
+		<PREFIX>_ddz.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>14</ID_RODZ_DOK>
+		<OPIS>wykaz współrzędnych</OPIS>
+		<PREFIX>_wsp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>15</ID_RODZ_DOK>
+		<OPIS>wykaz współrzędnych punktów osnowy oraz błędy średnie tych punktów po wyrównaniu</OPIS>
+		<PREFIX>_wspo.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>16</ID_RODZ_DOK>
+		<OPIS>sprawozdanie techniczne</OPIS>
+		<PREFIX>_stc.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>17</ID_RODZ_DOK>
+		<OPIS>obliczenia współrzędnych</OPIS>
+		<PREFIX>_owp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>18</ID_RODZ_DOK>
+		<OPIS>zestawienia i porównania, rozliczenie powierzchni</OPIS>
+		<PREFIX>_opp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>19</ID_RODZ_DOK>
+		<OPIS>porównanie współrzędnych punktów granicznych oraz ich atrybutów opisowych</OPIS>
+		<PREFIX>_powsp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>20</ID_RODZ_DOK>
+		<OPIS>badanie księgi wieczystej</OPIS>
+		<PREFIX>_bkw.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>21</ID_RODZ_DOK>
+		<OPIS>protokół graniczny</OPIS>
+		<PREFIX>_pgr.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>22</ID_RODZ_DOK>
+		<OPIS>protokół wznowienia-wyznaczenia znaków granicznych </OPIS>
+		<PREFIX>_pwzg.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>23</ID_RODZ_DOK>
+		<OPIS>protokół przyjęcia granic</OPIS>
+		<PREFIX>_pwg.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>24</ID_RODZ_DOK>
+		<OPIS>protokoły okazania nowych granic i przekazania</OPIS>
+		<PREFIX>_png.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>25</ID_RODZ_DOK>
+		<OPIS>wykaz zmian danych ewidencyjnych</OPIS>
+		<PREFIX>_wzd.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>26</ID_RODZ_DOK>
+		<OPIS>dowód doręczenia zawiadomienia</OPIS>
+		<PREFIX>_zdz.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>27</ID_RODZ_DOK>
+		<OPIS>mapa </OPIS>
+		<PREFIX>_mp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>28</ID_RODZ_DOK>
+		<OPIS>zgłoszenie pracy geodezyjnej</OPIS>
+		<PREFIX>_zgp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>29</ID_RODZ_DOK>
+		<OPIS>wypis z rejestru gruntów</OPIS>
+		<PREFIX>_wsr.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>30</ID_RODZ_DOK>
+		<OPIS>opis topograficzny</OPIS>
+		<PREFIX>_opto.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>31</ID_RODZ_DOK>
+		<OPIS>dokumentacja klasyfikacyjna</OPIS>
+		<PREFIX>_dku.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>32</ID_RODZ_DOK>
+		<OPIS>upoważnienie</OPIS>
+		<PREFIX>_upo.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>33</ID_RODZ_DOK>
+		<OPIS>akt notarialny</OPIS>
+		<PREFIX>_akt.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>34</ID_RODZ_DOK>
+		<OPIS>oświadczenie</OPIS>
+		<PREFIX>_osw.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>35</ID_RODZ_DOK>
+		<OPIS>inny</OPIS>
+		<PREFIX>_inn.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>36</ID_RODZ_DOK>
+		<OPIS>inne dokumenty klasyfikacyjne</OPIS>
+		<PREFIX>_indk.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>37</ID_RODZ_DOK>
+		<OPIS>wniosek o wprowadzenie do EGiB</OPIS>
+		<PREFIX>_woe.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+</dsDictionary>

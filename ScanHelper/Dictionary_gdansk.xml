@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dsDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dictionary>
+		<ID_RODZ_DOK>1</ID_RODZ_DOK>
+		<OPIS>Okładka operatu</OPIS>
+		<PREFIX>_okl.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>2</ID_RODZ_DOK>
+		<OPIS>Spis dokumentów operatu technicznego</OPIS>
+		<PREFIX>_spt.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>3</ID_RODZ_DOK>
+		<OPIS>Wniosek o przyjęcie do zasobu</OPIS>
+		<PREFIX>_wni.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>4</ID_RODZ_DOK>
+		<OPIS>Wniosek wykonawcy</OPIS>
+		<PREFIX>_ww.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>5</ID_RODZ_DOK>
+		<OPIS>Protokół weryfikacji dokumentacji</OPIS>
+		<PREFIX>_prw.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>6</ID_RODZ_DOK>
+		<OPIS>Decyzja administracyjna</OPIS>
+		<PREFIX>_dec.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>7</ID_RODZ_DOK>
+		<OPIS>Postanowienie</OPIS>
+		<PREFIX>_post.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>8</ID_RODZ_DOK>
+		<OPIS>Notatnik zmian</OPIS>
+		<PREFIX>_notzm.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>9</ID_RODZ_DOK>
+		<OPIS>Szkic polowy</OPIS>
+		<PREFIX>_szp.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>10</ID_RODZ_DOK>
+		<OPIS>Osnowa</OPIS>
+		<PREFIX>_osn.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>11</ID_RODZ_DOK>
+		<OPIS>Wykaz współrzędnych</OPIS>
+		<PREFIX>_wsp.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>12</ID_RODZ_DOK>
+		<OPIS>Obliczenia i analizy 1</OPIS>
+		<PREFIX>_oba_1.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>13</ID_RODZ_DOK>
+		<OPIS>Obliczenia i analizy 2</OPIS>
+		<PREFIX>_oba_2.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>14</ID_RODZ_DOK>
+		<OPIS>Dziennik pomiarowy</OPIS>
+		<PREFIX>_dzi.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>15</ID_RODZ_DOK>
+		<OPIS>Sprawozdanie techniczne</OPIS>
+		<PREFIX>_stech.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>16</ID_RODZ_DOK>
+		<OPIS>Badanie księgi wieczystej</OPIS>
+		<PREFIX>_bkw.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>17</ID_RODZ_DOK>
+		<OPIS>Protokół</OPIS>
+		<PREFIX>_prt.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>18</ID_RODZ_DOK>
+		<OPIS>Wykaz zmian danych ewidencyjnych</OPIS>
+		<PREFIX>_wz.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>19</ID_RODZ_DOK>
+		<OPIS>Dowód doręczenia zawiadomienia</OPIS>
+		<PREFIX>_ddz.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>20</ID_RODZ_DOK>
+		<OPIS>Wypis</OPIS>
+		<PREFIX>_ewg.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>21</ID_RODZ_DOK>
+		<OPIS>Karta GESUT</OPIS>
+		<PREFIX>_ges.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>22</ID_RODZ_DOK>
+		<OPIS>Inny</OPIS>
+		<PREFIX>_inn.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>23</ID_RODZ_DOK>
+		<OPIS>Inny archiwalny</OPIS>
+		<PREFIX>_i-arch.</PREFIX>
+		<SCAL>tak</SCAL>
+	</Dictionary>
+	<Dictionary>
+		<ID_RODZ_DOK>24</ID_RODZ_DOK>
+		<OPIS>Mapa</OPIS>
+		<PREFIX>_map.</PREFIX>
+		<SCAL>nie</SCAL>
+	</Dictionary>
+</dsDictionary>

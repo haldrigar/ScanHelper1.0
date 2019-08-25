@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<dsPDFFiles>
+  <PDFFiles>
+    <Id>1</Id>
+    <PathAndFileName>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug\1.pdf</PathAndFileName>
+    <FileName>1.pdf</FileName>
+    <Path>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug</Path>
+  </PDFFiles>
+  <PDFFiles>
+    <Id>2</Id>
+    <PathAndFileName>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug\2.pdf</PathAndFileName>
+    <FileName>2.pdf</FileName>
+    <Path>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug</Path>
+  </PDFFiles>
+  <PDFFiles>
+    <Id>3</Id>
+    <PathAndFileName>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug\3.pdf</PathAndFileName>
+    <FileName>3.pdf</FileName>
+    <Path>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug</Path>
+  </PDFFiles>
+  <PDFFiles>
+    <Id>4</Id>
+    <PathAndFileName>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug\4.pdf</PathAndFileName>
+    <FileName>4.pdf</FileName>
+    <Path>C:\Users\grzeg\source\repos\ScanHelper\ScanHelper\bin\Debug</Path>
+  </PDFFiles>
+</dsPDFFiles>
